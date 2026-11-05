@@ -1,10 +1,14 @@
-# Póster A0
+# Póster oficial del Coloquio de Invierno 2026
 
-Plantilla LaTeX vertical en formato A0. `main.tex` utiliza `fondo.pdf` como fondo
-a página completa e incluye un ejemplo de póster sobre evaluación de semirango
+Póster oficial del Coloquio de Invierno 2026 en Ingeniería para la Innovación
+Tecnológica, del Posgrado en Ingeniería para la Innovación Tecnológica de la
+[Universidad Autónoma de Zacatecas](https://innovaciontecnologica.uaz.edu.mx/).
+
+El proyecto está escrito en LaTeX vertical en formato A0. `main.tex` utiliza
+`fondo.pdf` como fondo a página completa y presenta una evaluación del semirango
 BF-suitable. La figura `Fig01.png`, la tabla de lectura aproximada y la
-referencia bibliográfica sirven como ejemplos editables; verifica los valores
-con los datos originales antes de presentarlos como resultados definitivos.
+referencia bibliográfica forman parte del póster; verifica los valores con los
+datos originales antes de presentarlos como resultados definitivos.
 
 ## Compilar
 
